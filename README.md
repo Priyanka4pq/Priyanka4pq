@@ -1,66 +1,41 @@
-# Hi 👋, I'm Priyanka
+# Hi, I'm Priyanka 👋
 
 🎓 Final Year Computer Science Engineering Student
+🚀 Aspiring DevOps Engineer | Passionate about Cloud Computing & Automation
 
-🚀 Passionate about DevOps, Cloud Computing, and Automation.
+---
 
 ## 🌱 Currently Learning
+Kubernetes • Docker • Jenkins • Terraform • AWS • Linux • Shell Scripting • Git & GitHub • Prometheus & Grafana
 
-- Kubernetes
-- Docker
-- Jenkins
-- Terraform
-- AWS
-- Linux
-- Shell Scripting
-- Git & GitHub
-- Prometheus & Grafana
-
-## 🚀 Current Focus
-
+## 🎯 Current Focus
 - 🔥 90 Days of DevOps Challenge
 - Building production-ready CI/CD pipelines
-- Kubernetes deployments
-- Infrastructure Automation
+- Kubernetes deployments and orchestration
+- Infrastructure automation with Terraform
 
 ## 🛠 Tech Stack
 
 **Cloud & DevOps**
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- GitHub Actions
-- Maven
-- SonarQube
-- Trivy
-- Prometheus
-- Grafana
-- Nginx
+`AWS` `Docker` `Kubernetes` `Jenkins` `Terraform` `GitHub Actions` `Maven` `SonarQube` `Trivy` `Prometheus` `Grafana` `Nginx`
 
 **Programming**
-- C++
-- Bash
-- JavaScript
+`C++` `Bash` `JavaScript`
 
 **Web Development**
-- React
-- Node.js
-- Express.js
-- MongoDB
+`React` `Node.js` `Express.js` `MongoDB`
 
 ## 📌 Featured Projects
-
-- 🚀 Enterprise CI/CD Pipeline (Jenkins, Maven, SonarQube, Trivy, Docker, Prometheus, Grafana)
-- ☸️ Kubernetes Learning & Deployments
-- 🏗 Three-Tier DevOps Project
-- 📖 90 Days of DevOps
-- 🐧 Linux & Shell Scripting
+- 🚀 **Enterprise CI/CD Pipeline** — End-to-end pipeline using Jenkins, Maven, SonarQube, Trivy, Docker, Prometheus, and Grafana
+- ☸️ **Kubernetes Deployments** — Hands-on cluster setup and application deployments
+- 🏗 **Three-Tier DevOps Project** — Full-stack deployment with automated infrastructure
+- 📖 **90 Days of DevOps** — Documented daily learning journey
+- 🐧 **Linux & Shell Scripting** — Automation scripts for system administration
 
 ## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka4pq/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Priyanka4pq)
 
-- LinkedIn: https://www.linkedin.com/in/priyanka4pq/
-- GitHub: https://github.com/Priyanka4pq
+---
 
-⭐ I enjoy learning by building real-world DevOps projects and sharing my journey on GitHub.
+💡 *I learn best by building real-world DevOps projects and sharing the process along the way.*
