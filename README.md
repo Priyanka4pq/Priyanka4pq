@@ -57,6 +57,8 @@ Kubernetes • Docker • Jenkins • Terraform • AWS • Linux • Shell Scri
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Priyanka4pq&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanka4pq&theme=radical&hide_border=true)
+
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka4pq/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Priyanka4pq)
