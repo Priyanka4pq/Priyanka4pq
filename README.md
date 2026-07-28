@@ -1,6 +1,6 @@
 # Hi, I'm Priyanka 👋
 
-🎓 Final Year Computer Science Engineering Student
+🎓 Computer Science Engineering Graduate (July 2026)
 🚀 Aspiring DevOps Engineer | Passionate about Cloud Computing & Automation
 
 ---
@@ -31,6 +31,14 @@ Kubernetes • Docker • Jenkins • Terraform • AWS • Linux • Shell Scri
 - 🏗 **Three-Tier DevOps Project** — Full-stack deployment with automated infrastructure
 - 📖 **90 Days of DevOps** — Documented daily learning journey
 - 🐧 **Linux & Shell Scripting** — Automation scripts for system administration
+
+## 📊 GitHub Stats
+
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka4pq&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka4pq&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanka4pq&theme=radical&hide_border=true)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka4pq/)
